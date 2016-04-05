@@ -1,0 +1,311 @@
+436
+
+Saint-Flour 203
+Saint-Jean-de-Maurienne 261
+Saint-Lizier 169
+
+Saint-Malo 252
+
+831111-011161 104
+Saint-Papoul 306
+Saint-Paul-Trois-Chateaux 389
+Saint-Pol-de‘Leon 242
+831111-Ρο115 319
+
+831311131163 339
+
+Salamis 340
+
+Salerno 340
+
+8310113 341
+
+Saloniki 376
+
+Saluzzo 341
+
+Salzburg 340
+
+Samaria 342
+
+Samos 342
+
+San Juan de Puerto Rico 321
+8311 Marco Argentano 255
+8311 Miniato 269
+
+San Severino Marche 355
+8311 Severo 355
+
+Sant'Agata de’ Coti 71
+Sant'Angelo dei Lombardi 85
+Sant'Angelo in Vado 86
+831113 Cruz de 13 816113 176
+831113 Fe de Bogota 201
+831113 Μ3113 258
+
+831113 86ν611113 355
+Santiago de Chile 224
+Santiago de Cuba 225
+Santiago de Compostela 166
+Santiago del Estero 393
+Santo Domingo 186
+Santorino 343
+
+830 Luis do Maranhao 249
+830 Salvador da Bahia 341
+Sao 8611351130 348
+
+Sao Tiago de Cabo Verde 224
+Sao Tome‘: 378
+
+Sao Tome de Meliapor 378
+Sappa 344
+
+Sardes 344
+
+Sardica 360
+
+Sarepta 345
+
+Sarlat 345
+
+Sarno 345
+
+Sarsina 346
+
+Sarzana 250
+
+8355311 395
+
+Satriano 139
+
+Savona 344
+
+Scala 328
+
+Scardona 346
+
+Scio 158
+
+Scutari 347
+
+Sebaste 347
+
+Sebastea 347
+
+Sebastopolis 348
+
+Sebenico 356
+
+Seckau 348
+
+ 
+
+ 
+
+8665 338
+
+Seez 338
+Segni 357
+Segorbe 351
+Segovia 350
+Seleucia 352
+Selymbria 352
+Semendria 117, 342
+Senez 352
+Senigallia 353
+Senj 349
+8611115 357
+86115 353
+Serdica 360
+Serra 354
+Sessa Aurunca 365
+Sevilla 222
+Sezze 371
+Shkoder 347
+Shkup 346
+Sibenik 356
+Side 356
+Sidon 356
+Siebenbiirgen 385
+Siena 353
+Sifanto 358
+Siguenza 351
+Sinigaglia 353
+Sinope 357
+Sion 349, 357
+Siphnos 358
+Sirmium 358
+Sisteron 359
+Siracusa 366
+Sitten 349
+Skadar 347
+Skradin 346
+Skoplje 346
+Smederevo 117, 342
+Smolensk 359
+Smyrna 360
+Sofia 360
+Soissons 365
+Solsona 153
+Sora 360
+Sorrento 366
+Sovana 364
+Sozopolis 361
+Spalato 361
+Speyer 362
+Spiga 361
+Split 361
+Spoleto 362
+Squillace 362
+Sredec 360
+Srijern 358
+Stagno 363
+Stauropolis 363
+81011 363
+Strasbourg 98
+Strassburg 98
+
+Strongoli 364
+
+ 
+
+ 
+
+Appendix III
+
+Sulmona 404
+Sura 366
+Sutri 285
+Synopolis 356
+Syra 367
+Syros 367
+
+T
+
+Tamiathis 181
+Tunger 380
+Tanis 368
+Taranto 368
+Tarazona 381
+Tarbes 368
+Tarentaise 368
+Targa 369
+Tarragona 369
+Tarsos 369
+Tarsus 369
+Teano 373
+Telese 374
+Tempio 82
+Τ61105 380
+Teos 371
+Teramo 91
+Termoli 376
+Terni 228
+Terracina 371
+Terralba 401
+Teruel 372
+Thagaste 372
+Thaumacus 372
+Τ1161136 373
+Thelepte 374
+Themiscyra 374
+Theodosia 375
+Thermae basilicae 375
+Thermopylae 375
+Thespiae 376
+Thessalonica 376
+Thomieres 319
+Thyatira 379
+Tiberias 379
+Tiberiopolis 379
+Tinos 380
+
+Tito lis 381
+Tivoi 380
+Tlaxcala 382
+Tlos 382
+
+Todi 394
+Toledo 383
+Tolentino 251
+Torcello 383
+Torino 370
+Torres 395
+Tortona 183
+Tortosa 183
+Toscanella 417
+Toul 394
+Toulon 377
+Toulouse 377
+Tournai 383
+
+Tours 395
+Trajanopolis 384
+Trani 385
+Trapezopolis 386
+Trapezus 386
+Trau 384
+Trebigne 254
+Trebinje 254
+Treguier 387
+Trento 389
+Trevico 391
+Treviso 370
+Tricala 388
+Tricca 388
+Tricarico 388
+Tricomia 389
+Trient 389
+Trier 387
+Triest 371
+Trieste 371
+Tripoli 295
+Tripolis 390
+Trivento 390
+Troas 391
+Trogir 384
+Troia 391
+Tropea 392
+Troyes 386
+Trujillo 392
+Τ113111 393
+Tucuman 393
+Tulle 396
+Tursi 86
+Tuscania 417
+Tay 394
+Tyana 396
+Tyrus 396
+
+U
+
+Ugento 397
+Umbriatico 398
+Urbania 86
+Urbino 399
+Ur el 399
+Usfiub 346
+Uthina 400
+Utica 400
+Uzes 400
+
+V
+
+Vabres 401
+Vae 402
+
+’ Vacz 402
+
+Vaison 405
+Valence 403
+Valencia 402
+Valladolid 403
+Valva 404
+Vannes 408
+Veglia 406
+Venafro 407
+
+ 
+
